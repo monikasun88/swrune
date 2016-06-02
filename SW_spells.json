@@ -1,0 +1,53 @@
+{ "type": "object",
+  "properties": {
+    "Monster": {
+      "type": "object",
+      "properties": {
+        "Class": { "type":"string" },
+        "Element": { "type":"string" },
+        "Awakened": { "type":"integer" },
+        "AwakenedName": { "type":"integer", "optional": true },
+        "Stars": { "type":"integer" },
+        "StarGradue": { "type":"integer" },
+        "Role": { "type":"string" },
+        "MaxLevel": {"type":"integer" },
+        "Attributes": {
+          "type":"object",
+          "properties": {
+            "HP": { "type":"integer" },
+            "ATK": { "type":"integer" },
+            "DEF": { "type":"integer" },
+            "SPD": { "type":"integer" }}},
+        "Skills": {
+          "type":"array",
+          "items": {
+            "type":"object",
+            "properties": {
+              "Name": { "type":"string" },
+              "Heal": { "type":"integer" },
+              "HealMod": { "type":"string" ,
+                        "description":"percent,ATK,damage" },
+              "Damage": {"type":"boolean" },
+              "DamageHits": {"type":"integer" },
+              "DamageMod": { "type":"array",
+                             "properties": {
+                               "AttackBar": { "type":"integer" },
+                               "Sleep": { "type":"integer" },
+                               "SleepTurn": { "type":"integer", "optional": true },
+                               "GlancingHit": { "type":"integer" },
+                               "GlancingHitTurn": { "type":"integer", "optional": true },
+                               "DecAttackSpeed": { "type":"integer" },
+                               "DecAttackSpeedTurn": { "type":"integer", "optional": true },
+              "Buff": { "type":boolean" },
+              "DeBuff": { "type":"array",
+                             "properties": {
+                               "AttackBar": { "type":"integer" },
+                               "DecAttackSpeed": { "type":"integer" },
+                               "DecAttackSpeedTurn": { "type":"integer", "optional": true },
+                               
+              "Reusable": {"type":"integer" },
+                
+                             } }
+              
+            
+

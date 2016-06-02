@@ -1,0 +1,365 @@
+Location	Slot	TypeNameMod	TypeName	Stars	Upgrade	TypeMain	TypeSup	TypeMod1	TypeMod2	TypeMod3	TypeMod4	HasCrit	HasDef
+Ahman	1		Blade	4	6	ATK (46)		ATK (6%)	HP (18%)	Resistance (3%)	SPD (2)	0	0
+Ahman	2		Blade	5	9	HP (29%)		CRIRate (10%)	DEF (23)	Resistance (9%)	Accuracy (4%)	1	1
+Ahman	3	Mortal	Blade	4	6	DEF (46)	CRIRate (2%)	SPD (7)	HP (8%)			1	1
+Ahman	4	Ferocious	Blade	4	12	CRIRate (30%)	ATK (6)	ATK (5%)	Resistance (11%)	SPD (3)	CRIDmg (4%)	1	0
+Ahman	5		Blade	5	9	HP (1215)		CRIRate (9%)	Resistance (3%)	Accuracy (19%)		1	0
+Ahman	6		Blade	6	6	HP (29%)		DEF (23%)	ATK (10)			0	1
+Bank	1		Blade	4	6	ATK (46)		CRIDmg (9%)	CRIRate (7%)			1	0
+Bank	1		Blade	4	0	ATK (10)		ATK (4%)	CRIRate (3%)			1	0
+Bank	1		Blade	4	0	ATK (10)		CRIDmg (5%)	SPD (2)			0	0
+Bank	1	Powerful	Blade	5	9	ATK (78)	ATK (5%)	CRIRate (4%)	HP (287)	CRIDmg (15%)		1	0
+Bank	1	Quick	Blade	4	0	ATK (10)	SPD (4)	ATK (6%)	HP (3%)			0	0
+Bank	1	Quick	Despair	4	0	ATK (10)	SPD (3)	Accuracy (3%)	CRIRate (4%)			1	0
+Bank	1	Intricate	Despair	4	0	ATK (10)	Accuracy (5%)	HP (116)	Resistance (5%)			0	0
+Bank	1	Resistant	Despair	4	0	ATK (10)	Resistance (3%)	HP (93)	CRIRate (4%)	SPD (2)		1	0
+Bank	1	Quick	Despair	5	3	ATK (36)	SPD (5)	ATK (6%)	HP (10%)			0	0
+Bank	1	Powerful	Despair	4	0	ATK (10)	ATK (4%)	Resistance (4%)	SPD (2)			0	0
+Bank	1		Despair	5	0	ATK (15)		Resistance (3%)	CRIRate (4%)			1	0
+Bank	1	Quick	Despair	4	0	ATK (10)	SPD (4)	ATK (5%)	Resistance (5%)	Accuracy (2%)		0	0
+Bank	1	Cruel	Despair	4	6	ATK (46)	CRIDmg (3%)	Accuracy (7%)	ATK (9%)			0	0
+Bank	1		Energy	6	0	ATK (22)		CRIRate (5%)	SPD (5)	Accuracy (6%)		1	0
+Bank	1	Tenacious	Energy	6	0	ATK (22)	HP (7%)	CRIRate (4%)	CRIDmg (5%)			1	0
+Bank	1		Energy	3	6	ATK (37)		Accuracy (6%)	HP (4%)			0	0
+Bank	1	Intricate	Energy	5	0	ATK (15)	Accuracy (4%)	Resistance (7%)	ATK (4%)			0	0
+Bank	1		Energy	5	3	ATK (36)		Accuracy (11%)	ATK (5%)			0	0
+Bank	1	Quick	Energy	4	0	ATK (10)	SPD (2)	HP (6%)	CRIDmg (5%)			0	0
+Bank	1	Resistant	Energy	4	6	ATK (46)	Resistance (5%)	HP (11%)	ATK (12%)			0	0
+Bank	1	Powerful	Energy	6	0	ATK (22)	ATK (7%)	CRIDmg (6%)	HP (5%)			0	0
+Bank	1		Fatal	4	6	ATK (46)		Resistance (4%)	HP (13%)			0	0
+Bank	1	Tenacious	Fatal	4	0	ATK (10)	HP (4%)	CRIRate (3%)	CRIDmg (3%)			1	0
+Bank	1		Fatal	5	0	ATK (15)		CRIDmg (4%)	SPD (3)	Accuracy (7%)		0	0
+Bank	1	Tenacious	Fatal	4	6	ATK (46)	HP (3%)	CRIDmg (11%)	HP (81)			0	0
+Bank	1		Fatal	4	0	ATK (10)		Accuracy (4%)	Resistance (3%)	SPD (4)		0	0
+Bank	1	Tenacious	Focus	3	6	ATK (37)	HP (3%)	Resistance (2%)	CRIRate (7%)			1	0
+Bank	1	Intricate	Focus	3	0	ATK (7)	Accuracy (2%)	CRIDmg (3%)	Resistance (3%)			0	0
+Bank	1		Focus	3	0	ATK (7)		SPD (2)	Accuracy (4%)			0	0
+Bank	1		Focus	5	0	ATK (15)		Accuracy (4%)	SPD (4)			0	0
+Bank	1	Intricate	Focus	5	0	ATK (15)	Accuracy (3%)	ATK (6%)	HP (289)	HP (4%)		0	0
+Bank	1	Tenacious	Focus	5	0	ATK (15)	HP (4%)	CRIDmg (5%)	HP (105)	Accuracy (5%)		0	0
+Bank	1	Cruel	Focus	5	0	ATK (15)	CRIDmg (5%)	HP (285)	CRIRate (3%)			1	0
+Bank	1		Rage	3	6	ATK (37)		ATK (10%)	Resistance (2%)			0	0
+Bank	1		Rage	3	6	ATK (37)		ATK (9%)	HP (63)			0	0
+Bank	1	Resistant	Swift	3	6	ATK (37)	Resistance (3%)	CRIRate (4%)	HP (113)	SPD (1)	Accuracy (5%)	1	0
+Bank	1	Tenacious	Swift	3	0	ATK (7)	HP (5%)	Resistance (2%)	CRIDmg (4%)			0	0
+Bank	1	Mortal	Swift	5	0	ATK (15)	CRIRate (5%)	Resistance (6%)	HP (287)			1	0
+Bank	1		Swift	4	0	ATK (10)		Accuracy (5%)	CRIRate (3%)	Resistance (5%)		1	0
+Bank	1		Swift	4	0	ATK (10)		Resistance (2%)	Accuracy (3%)			0	0
+Bank	1		Swift	4	0	ATK (10)		HP (85)	CRIRate (3%)	HP (5%)		1	0
+Bank	1		Violent	6	6	ATK (70)		Accuracy (11%)	HP (11%)			0	0
+Bank	1	Powerful	Swift	5	6	ATK (57)	ATK (4%)	CRIRate (7%)	HP (7%)	SPD (7)		1	0
+Bank	1		Fatal	4	0	ATK (10)		HP (164)	Accuracy (5%)	ATK (6%)		0	0
+Bank	1	Cruel	Blade	5	6	ATK (57)	CRIDmg (3%)	Resistance (3%)	SPD (5)			0	0
+Bank	1		Fatal	4	0	ATK (10)		CRIRate (3%)	CRIDmg (2%)	HP (214)		1	0
+Bank	1	Strong	Energy	5	0	ATK (165)	HP (165)	SPD (5)	HP (4%)			0	0
+Bank	2	Strong	Blade	3	6	DEF (16%)	HP (164)	Resistance (5%)	CRIRate (5%)			1	1
+Bank	2		Blade	4	6	SPD (13)		Accuracy (3%)	DEF (8)			0	1
+Bank	2		Blade	4	0	HP (5%)		ATK (6%)	DEF (7)			0	1
+Bank	2	Cruel	Blade	4	6	HP (18%)	CRIDmg (2%)	SPD (4)	Resistance (13%)			0	0
+Bank	2		Despair	5	0	SPD (5)		HP (141)	CRIDmg (4%)	Resistance (7%)		0	0
+Bank	2		Despair	3	6	ATK (16%)		HP (260)	CRIRate (3%)			1	0
+Bank	2	Durable	Despair	5	0	SPD (5)	DEF (6%)	Resistance (6%)	DEF (8)	HP (119)		0	2
+Bank	2	Quick	Despair	4	0	DEF (5%)	SPD (4)	DEF (5)	CRIRate (3%)			1	2
+Bank	2		Endure	3	6	DEF (16%)		ATK (13)	Resistance (3%)	HP (287)	CRIDmg (3%)	0	1
+Bank	2	Ferocious	Energy	5	0	HP (8%)	ATK (14)	Accuracy (7%)	CRIDmg (3%)			0	0
+Bank	2		Energy	5	9	HP (29%)		SPD (8)	CRIDmg (4%)	DEF (4%)		0	1
+Bank	2	Resistant	Violent	4	0	SPD (4)	Resistance (4%)	ATK (6%)	CRIDmg (4%)	HP (6%)		0	0
+Bank	2	Quick	Fatal	4	0	DEF (5%)	SPD (4)	CRIDmg (5%)	CRIRate (3%)			1	1
+Bank	2		Fatal	5	0	SPD (5)		DEF (4%)	ATK (14)			0	1
+Bank	2	Durable	Swift	5	0	SPD (5)	DEF (4%)	HP (7%)	ATK (4%)			0	1
+Bank	2		Focus	6	6	HP (29%)		ATK (14)	CRIDmg (6%)			0	0
+Bank	2		Focus	5	3	SPD (11)		DEF (10)				0	1
+Bank	2	Strong	Focus	4	9	DEF (24%)	HP (169)	HP (5%)	ATK (21)	CRIDmg (5%)		0	1
+Bank	2	Sturdy	Focus	5	0	DEF (8%)	DEF (14)	ATK (10)	HP (104)			0	2
+Bank	2		Guard	5	6	DEF (22%)		ATK (17%)	CRIDmg (3%)			0	1
+Bank	2		Rage	3	6	ATK (16%)		Accuracy (2%)	CRIRate (5%)	CRIDmg (3%)		1	0
+Bank	2	Powerful	Rage	3	6	SPD (10)	ATK (2%)	DEF (2%)	CRIRate (8%)			1	1
+Bank	2	Resistant	Swift	5	0	HP (8%)	Resistance (6%)	SPD (4)	Accuracy (6%)	CRIDmg (4%)		0	0
+Bank	2		Swift	3	6	ATK (16%)		CRIDmg (4%)	ATK (23)			0	0
+Bank	2		Swift	4	6	ATK (18%)		HP (7%)	DEF (7%)			0	1
+Bank	2	Strong	Swift	4	3	HP (11%)	HP (185)	DEF (6%)	SPD (5)	DEF (6)	Accuracy (5%)	0	2
+Bank	2	Cruel	Swift	4	6	ATK (18%)	CRIDmg (5%)	DEF (12)	DEF (6%)			0	2
+Bank	2	Resistant	Swift	4	0	DEF (5%)	Resistance (2%)	CRIDmg (2%)	HP (6%)			0	1
+Bank	2		Swift	3	0	HP (4%)		Accuracy (3%)	DEF (5)			0	1
+Bank	2	Ferocious	Swift	4	0	ATK (5%)	ATK (10)	CRIRate (2%)	HP (3%)	Resistance (3%)	HP (103)	1	0
+Bank	2		Vampire	4	6	DEF (18%)		CRIRate (8%)	ATK (8)			1	1
+Bank	2		Violent	4	3	SPD (8)		ATK (8)				0	0
+Bank	2		Violent	4	0	ATK (5%)		CRIDmg (2%)	ATK (4)			0	0
+Bank	3	Resistant	Blade	3	6	DEF (37)	Resistance (3%)	DEF (9%)	HP (2%)	SPD (4)	HP (127)	0	2
+Bank	3		Blade	3	9	DEF (52)		DEF (7%)	CRIRate (6%)	SPD (1)		1	2
+Bank	3	Strong	Blade	5	0	DEF (15)	HP (196)	CRIRate (4%)	Accuracy (4%)			1	1
+Bank	3		Blade	4	9	DEF (64)		SPD (2)	Accuracy (4%)	CRIRate (9%)		1	1
+Bank	3		Despair	3	6	DEF (37)		HP (10%)	Accuracy (5%)			0	1
+Bank	3	Mortal	Despair	5	0	DEF (15)	CRIRate (3%)	HP (220)	Resistance (4%)			1	1
+Bank	3		Despair	4	0	DEF (10)		CRIRate (4%)	HP (63)	CRIDmg (3%)		1	1
+Bank	3	Strong	Despair	4	0	DEF (10)	HP (116)	Accuracy (2%)	CRIRate (4%)			1	1
+Bank	3	Resistant	Despair	4	0	DEF (10)	Resistance (2%)	SPD (4)	Accuracy (4%)			0	1
+Bank	3		Despair	5	0	DEF (15)		DEF (6%)	SPD (4)			0	2
+Bank	3	Mortal	Despair	4	0	DEF (10)	CRIRate (2%)	Resistance (2%)	DEF (4%)			1	2
+Bank	3		Despair	3	6	DEF (37)		DEF (6%)	HP (2%)	Resistance (6%)		0	2
+Bank	3		Energy	4	0	DEF (10)		Accuracy (2%)	CRIDmg (3%)	HP (6%)		0	1
+Bank	3	Durable	Energy	3	6	DEF (37)	DEF (3%)	Accuracy (2%)	CRIRate (5%)			1	2
+Bank	3		Fatal	5	0	DEF (15)		CRIRate (5%)	CRIDmg (4%)			1	1
+Bank	3		Despair	4	0	DEF (10)		Accuracy (2%)	CRIDmg (5%)			0	1
+Bank	3	Strong	Despair	5	0	DEF (15)	HP (158)	Accuracy (3%)	SPD (3)			0	1
+Bank	3		Focus	3	6	DEF (37)		HP (304)	Resistance (7%)	HP (5%)		0	1
+Bank	3	Intricate	Focus	4	0	DEF (10)	Accuracy (2%)	Resistance (3%)	CRIDmg (2%)			0	1
+Bank	3		Focus	5	0	DEF (15)		CRIDmg (3%)	HP (238)			0	1
+Bank	3	Durable	Focus	4	6	DEF (28)	DEF (4%)	CRIRate (8%)	SPD (4)	HP (12%)		1	2
+Bank	3		Focus	4	6	DEF (46)		CRIRate (10%)	SPD (2)	HP (128)		1	1
+Bank	3	Cruel	Focus	4	0	DEF (10)	CRIDmg (5%)	Accuracy (4%)	HP (138)			0	1
+Bank	3	Cruel	Focus	3	6	DEF (37)	CRIDmg (3%)	HP (7%)	HP (188)			0	1
+Bank	3	Quick	Focus	5	6	DEF (57)	SPD (3)	Accuracy (12%)	DEF (10%)	HP (5)		0	2
+Bank	3		Focus	5	3	DEF (36)		CRIDmg (8%)	DEF (7%)	Accuracy (4%)		0	2
+Bank	3	Resistant	Focus	4	3	DEF (28)	Resistance (5%)	HP (6%)	CRIRate (5%)	DEF (6%)		1	2
+Bank	3		Focus	4	0	DEF (10)		SPD (4)	HP (5%)	HP (163)	Resistance (3%)	0	1
+Bank	3	Quick	Focus	6	6	DEF (70)	SPD (6)	HP (11%)	DEF (7%)	CRIRate (11%)		1	2
+Bank	3	Intricate	Focus	4	0	DEF (10)	Accuracy (3%)	CRIRate (3%)	HP (5%)			1	1
+Bank	3		Focus	4	0	DEF (10)		SPD (4)	HP (5%)			0	1
+Bank	3		Focus	6	0	DEF (22)		CRIDmg (7%)	DEF (7%)	Resistance (6%)		0	2
+Bank	3	Strong	Fatal	4	0	DEF (10)	HP (66)	Accuracy (2%)	CRIDmg (5%)			0	1
+Bank	3	Durable	Swift	5	0	DEF (15)	DEF (4%)	SPD (3)	Resistance (6%)			0	2
+Bank	3	Resistant	Guard	4	3	DEF (28)	Resistance (5%)	HP (5%)	DEF (9%)			0	2
+Bank	3	Cruel	Guard	6	6	DEF (70)	CRIDmg (7%)	DEF (12%)	SPD (11)			0	2
+Bank	3		Rage	4	6	DEF (46)		CRIDmg (11%)	SPD (4)	CRIRate (2%)		1	1
+Bank	3		Rage	4	0	DEF (10)		CRIDmg (3%)	Accuracy (4%)			0	1
+Bank	3	Cruel	Rage	6	3	DEF (46)	CRIDmg (5%)	CRIRate (5%)	Accuracy (15%)			1	1
+Bank	3	Quick	Rage	4	0	DEF (10)	SPD (3)	Accuracy (2%)	CRIRate (2%)	HP (124)		1	1
+Bank	3		Rage	4	0	DEF (10)		CRIRate (3%)	Resistance (4%)			1	1
+Bank	3	Durable	Swift	4	0	DEF (10)	DEF (4%)	Accuracy (5%)	Resistance (4%)			0	2
+Bank	3		Swift	3	6	DEF (37)		HP (10%)	CRIRate (2%)	CRIDmg (5%)		1	1
+Bank	3		Swift	3	6	DEF (37)		CRIRate (3%)	CRIDmg (4%)			1	1
+Bank	3		Swift	5	3	DEF (15)		CRIDmg (8%)	CRIRate (3%)			1	1
+Bank	3	Durable	Swift	5	0	DEF (15)	DEF (4%)	CRIRate (3%)	HP (6%)			1	2
+Bank	3		Swift	4	0	DEF (10)		DEF (4%)	HP (6%)			0	2
+Bank	3	Tenacious	Vampire	4	0	DEF (10)	HP (6%)	CRIDmg (5%)	Resistance (5%)			0	1
+Bank	3		Violent	2	6	DEF (29)		DEF (3%)	CRIRate (4%)	Accuracy (6%)		1	2
+Bank	3	Intricate	Fatal	5	0	DEF (15)	Accuracy (4%)	CRIRate (5%)	DEF (7%)	Resistance (7%)		1	2
+Bank	3		Energy	5	0	DEF (15)		DEF (4%)	HP (4%)			0	2
+Bank	3		Fatal	5	0	DEF (15)		CRIRate (5%)	Accuracy (6%)	CRIDmg (3%)		1	1
+Bank	3		Blade	5	0	DEF (15)		CRIDmg (3%)	Accuracy (6%)			0	1
+Bank	3		Swift	5	0	DEF (15)		Accuracy (5%)	SPD (3)	HP (4%)		0	1
+Bank	3		Energy	5	0	DEF (15)		HP (7%)	Accuracy (4%)			0	1
+Bank	4		Blade	5	9	CRIRate (27%)		DEF (6%)	DEF (35)	HP (261)		1	2
+Bank	4		Blade	5	3	CRIRate (12%)		DEF (8)				1	1
+Bank	4		Blade	3	6	CRIRate (15%)		DEF (12)	Accuracy (3%)	CRIDmg (7%)		1	1
+Bank	4		Blade	4	6	CRIDmg (24%)		HP (6%)	HP (103)	DEF (12)	CRIRate (2%)	1	1
+Bank	4	Resistant	Blade	4	9	CRIRate (24%)	Resistance (3%)	HP (271)	CRIDmg (2%)	SPD (7)		1	0
+Bank	4		Blade	5	0	CRIRate (5%)		Accuracy (7%)	ATK (10)			1	0
+Bank	4		Blade	4	0	CRIDmg (6%)		HP (193)	CRIRate (2%)			1	0
+Bank	4	Quick	Blade	5	0	ATK (8%)	SPD (3)	CRIDmg (4%)	CRIRate (4%)			1	0
+Bank	4	Strong	Despair	4	0	ATK (5%)	HP (172)	SPD (4)	DEF (5%)			0	1
+Bank	4		Despair	4	9	HP (24%)		Resistance (5%)	DEF (16)	DEF (6%)		0	2
+Bank	3		Despair	4	0	DEF (10)		SPD (4)	DEF (6%)				
+Bank	4		Despair	4	9	HP (24%)		Resistance (5%)	DEF (16)	DEF (6%)		0	2
+Bank	4		Despair	4	0	CRIDmg (6%)		DEF (6%)	HP (198)			0	1
+Bank	4	Sturdy	Despair	4	0	CRIDmg (6%)	DEF (9)	HP (4%)	HP (166)			0	1
+Bank	4	Tenacious	Despair	4	0	CRIDmg (6%)	HP (6%)	Resistance (4%)	CRIRate (3%)			1	0
+Bank	4	Quick	Despair	4	0	HP (5%)	SPD (2)	CRIDmg (2%)	ATK (5%)	DEF (5%)		0	1
+Bank	4	Ferocious	Despair	5	6	HP (22%)	ATK (10)	Resistance (11%)	Accuracy (7%)			0	0
+Bank	4	Tenacious	Despair	6	0	CRIRate (7%)	HP (8%)	DEF (14)	Resistance (6%)	ATK (7%)	DEF (5%)	1	2
+Bank	4		Endure	3	0	CRIDmg (4%)		SPD (1)	DEF (2%)			0	1
+Bank	4		Endure	4	6	HP (18%)		CRIDmg (12%)	DEF (3%)			0	1
+Bank	4		Despair	5	0	CRIDmg (8%)		Resistance (4%)	HP (7%)			0	0
+Bank	4		Energy	3	6	CRIDmg (18%)		Accuracy (10%)	HP (5%)			0	0
+Bank	4	Tenacious	Energy	4	0	CRIRate (4%)	HP (6%)	ATK (7)	Resistance (3%)	ATK (4%)		1	0
+Bank	4		Energy	4	6	HP (18%)		CRIDmg (4%)	HP (78)			0	0
+Bank	4	Ferocious	Fatal	4	6	CRIDmg (24%)	ATK (9)	CRIRate (9%)	SPD (3)			1	0
+Bank	4		Fatal	5	0	ATK (8%)		HP (6%)	HP (271)			0	0
+Bank	4	Ferocious	Focus	3	6	CRIDmg (18%)	ATK (6)	HP (210)	DEF (7%)	DEF (4)		0	2
+Bank	4	Strong	Focus	3	0	CRIDmg (4%)	HP (93)	HP (4%)	DEF (2%)			0	1
+Bank	4	Strong	Focus	4	0	ATK (5%)	HP (83)	Accuracy (5%)	ATK (9)			0	0
+Bank	4		Focus	3	6	CRIRate (15%)		Resistance (4%)	CRIDmg (11%)			1	0
+Bank	4	Intricate	Focus	4	0	DEF (5%)	Accuracy (4%)	HP (60)	ATK (3%)			0	1
+Bank	4		Focus	5	6	DEF (22%)		ATK (9%)	HP (9%)			0	1
+Bank	4		Focus	4	6	CRIRate (17%)		HP (363)	Resistance (8%)	ATK (6%)		1	0
+Bank	4		Focus	4	0	CRIRate (4%)		HP (4%)	ATK (5)			1	0
+Bank	4		Focus	4	9	CRIRate (24%)		HP (275)	Accuracy (6%)	ATK (10)		1	0
+Bank	4		Focus	5	0	CRIRate (5%)		ATK (7%)	Resistance (4%)			1	0
+Bank	4		Focus	4	0	ATK (5%)		CRIDmg (2%)	Accuracy (2%)	ATK (8)		0	0
+Bank	4	Cruel	Focus	4	6	ATK (18%)	CRIDmg (3%)	DEF (10%)	HP (437)			0	1
+Bank	4	Resistant	Guard	4	6	DEF (18%)	Resistance (3%)	CRIDmg (8%)	HP (10%)			0	1
+Bank	4		Rage	6	6	CRIRate (25%)		Accuracy (10%)	CRIDmg (6%)			1	0
+Bank	4		Swift	3	6	ATK (16%)		Resistance (7%)	DEF (4%)	CRIRate (3%)		1	1
+Bank	4		Swift	4	0	HP (5%)		DEF (3%)	ATK (6)			0	1
+Bank	4	Cruel	Swift	6	0	DEF (22)	CRIDmg (5%)	HP (8%)	ATK (5%)	DEF (6%)		0	2
+Bank	4		Swift	5	0	HP (8%)		Resistance (3%)	CRIRate (5%)	DEF (6%)		1	1
+Bank	4	Sturdy	Swift	4	9	HP (24%)	DEF (10)	ATK (18)	ATK (6%)	CRIRate (2%)		1	1
+Bank	4	Strong	Vampire	5	6	HP (22%)	HP (273)	DEF (11%)	CRIDmg (5%)			0	1
+Bank	4		Violent	3	0	CRIDmg (4%)		SPD (2)				0	0
+Bank	4	Ferocious	Violent	6	6	CRIDmg (35%)	ATK (16)	Resistance (15%)	DEF (8%)			0	1
+Bank	4		Swift	6	0	ATK (11%)		Resistance (8%)	CRIDmg (5%)			0	0
+Bank	5		Blade	5	0	HP (270)		Resistance (3%)	HP (6%)			0	0
+Bank	5	Resistant	Blade	3	6	HP (550)	Resistance (2%)	ATK (12%)	CRIRate (3%)			1	0
+Bank	5		Blade	5	6	HP (900)		CRIDmg (4%)	Accuracy (3%)			0	0
+Bank	5		Blade	5	0	HP (270)		DEF (6%)	Accuracy (5%)			0	1
+Bank	5		Blade	4	0	HP (160)		SPD (3)	CRIDmg (3%)			0	0
+Bank	5	Cruel	Blade	5	3	HP (585)	CRIDmg (5%)	CRIRate (3%)	ATK (11%)			1	0
+Bank	5		Blade	5	3	HP (585)		DEF (5%)	HP (4%)	ATK (22)		0	1
+Bank	5	Cruel	Despair	6	0	HP (360)	CRIDmg (4%)	ATK (18)	DEF (6%)			0	1
+Bank	5		Despair	5	0	HP (270)		CRIRate (5%)	DEF (13)	SPD (5)		1	1
+Bank	5		Despair	5	0	HP (270)		CRIDmg (5%)	CRIRate (3%)	ATK (7%)		1	0
+Bank	5	Durable	Despair	4	0	HP (160)	DEF (5%)	Accuracy (5%)	ATK (6%)			0	1
+Bank	5		Energy	5	6	HP (900)		DEF (18%)	SPD (3)			0	1
+Bank	5		Energy	5	0	HP (270)		CRIDmg (5%)	DEF (4%)			0	1
+Bank	5		Energy	4	0	HP (160)		Accuracy (3%)	DEF (3%)	HP (6%)		0	1
+Bank	5		Energy	4	3	HP (430)	ATK (3%)	DEF (11)	HP (6%)			0	1
+Bank	5		Energy	6	0	HP (360)		Resistance (7%)	Accuracy (8%)	CRIDmg (7%)		0	0
+Bank	5		Energy	4	6	HP (700)		Resistance (7%)	Accuracy (2%)			0	0
+Bank	5		Energy	3	6	HP (550)		Accuracy (6%)	CRIRate (3%)	DEF (7%)	ATK (2%)	1	1
+Bank	5	Powerful	Despair	4	0	HP (160)	ATK (4%)	DEF (3%)	CRIRate (2%)	ATK (8)	CRIDmg (5%)	1	1
+Bank	5	Powerful	Fatal	5	0	HP (270)	ATK (7%)	DEF (6%)	DEF (12)	CRIRate (3%)		1	2
+Bank	5		Fatal	5	6	HP (900)		CRIDmg (7%)	DEF (10%)			0	1
+Bank	5	Ferocious	Fatal	5	0	HP (270)	ATK (9)	ATK (4%)	SPD (4)			0	0
+Bank	5		Focus	4	6	HP (700)		HP (3%)	DEF (5%)			0	1
+Bank	5		Focus	3	6	HP (550)		Accuracy (5%)	CRIDmg (5%)	HP (5%)	SPD (3)	0	0
+Bank	5		Focus	4	0	HP (160)		DEF (3%)	Accuracy (4%)			0	1
+Bank	5		Focus	4	0	HP (160)		HP (5%)	DEF (4%)			0	1
+Bank	5		Focus	3	6	HP (550)		Resistance (2%)	ATK (2%)	Accuracy (7%)		0	0
+Bank	5	Quick	Focus	6	0	HP (360)	SPD (4)	CRIDmg (7%)	DEF (11)			0	1
+Bank	5	Cruel	Swift	4	6	HP (700)	CRIDmg (4%)	ATK (10)	CRIRate (9%)			1	0
+Bank	5		Guard	4	0	HP (160)		DEF (10)	CRIRate (4%)	CRIDmg (3%)		1	1
+Bank	5		Rage	4	7	HP (790)		ATK (9%)	CRIRate (6%)			1	0
+Bank	5	Mortal	Swift	3	9	HP (775)	CRIRate (3%)	Resistance (8%)	DEF (2%)	SPD (3)	DEF (11)	1	2
+Bank	5		Swift	5	3	HP (585)		HP (9%)	Accuracy (6%)	ATK (7%)		0	0
+Bank	5		Swift	4	0	HP (160)		Accuracy (2%)	CRIDmg (4%)			0	0
+Bank	5		Swift	4	6	HP (700)		CRIRate (3%)	SPD (7)	CRIDmg (8%)		1	0
+Bank	5	Durable	Violent	5	6	HP (900)	DEF (6%)	CRIDmg (10%)	HP (6%)	CRIRate (4%)		1	1
+Bank	5		Fatal	5	0	HP (270)		Accuracy (6%)	ATK (4%)			0	0
+Bank	5	Ferocious	Swift	4	0	HP (160)	ATK (8)	Accuracy (2%)	HP (6%)			0	0
+Bank	5		Energy	5	0	HP (270)		HP (5%)	CRIDmg (3%)			0	0
+Bank	6		Blade	4	6	DEF (5%)		HP (6%)	Accuracy (4%)			0	1
+Bank	6		Blade	4	6	Resistance (19%)		CRIRate (5%)	SPD (3)			1	0
+Bank	6	Sturdy	Despair	5	0	ATK (8%)	DEF (8)	HP (104)	CRIRate (4%)			1	1
+Bank	6		Despair	4	0	HP (5%)		CRIDmg (3%)	DEF (3%)			0	1
+Bank	6		Despair	3	9	HP (22%)		ATK (20)	HP (319)	DEF (5%)	ATK (3%)	0	1
+Bank	6	Tenacious	Despair	4	9	Accuracy (26%)	HP (4%)	SPD (3)	DEF (18)	Resistance (12%)		0	1
+Bank	6		Despair	4	0	ATK (5%)		HP (6%)	ATK (7)	CRIDmg (5%)		0	0
+Bank	6	Resistant	Despair	4	0	HP (5%)	Resistance (2%)	DEF (3%)	Accuracy (5%)			0	1
+Bank	6	Resistant	Despair	5	0	Accuracy (9%)	Resistance (6%)	DEF (13)	SPD (4)			0	1
+Bank	6		Despair	4	0	DEF (5%)		CRIRate (3%)	HP (147)			1	1
+Bank	6		Despair	5	0	Resistance (9%)		Accuracy (5%)	ATK (7%)			0	0
+Bank	6	Cruel	Despair	5	0	Accuracy (9%)	CRIDmg (3%)	HP (226)	ATK (14)			0	0
+Bank	6		Energy	3	6	Accuracy (16%)		DEF (11)	HP (8%)			0	1
+Bank	6	Durable	Energy	4	0	Accuracy (6%)	DEF (3%)	Resistance (2%)	ATK (4%)			0	1
+Bank	6	Cruel	Energy	5	3	DEF (18%)	CRIDmg (3%)	HP (258)	Accuracy (12%)	DEF (10)	SPD (3)	0	2
+Bank	6		Energy	6	6	HP (22%)		DEF (12)	Accuracy (17%)			0	1
+Bank	6		Energy	4	6	Resistance (19%)		HP (6%)	DEF (17)			0	1
+Bank	6	Quick	Fatal	4	0	ATK (5%)	SPD (3)	CRIRate (4%)	DEF (6)			1	1
+Bank	6	Intricate	Fatal	5	0	HP (8%)	Accuracy (6%)	CRIDmg (3%)	DEF (10)			0	1
+Bank	6		Fatal	4	0	HP (5%)		CRIRate (2%)	HP (67)	DEF (6%)		1	1
+Bank	6	Intricat	Fatal	5	9	ATK (29%)	Accuracy (4%)	Resistance (7%)	CRIDmg (11%)	DEF (12%)	DEF (10)	0	2
+Bank	6		Focus	4	6	ATK (18%)		HP (3%)	SPD (9)	DEF (9)		0	1
+Bank	6	Mortal	Focus	4	0	Resistance (6%)	CRIRate (4%)	DEF (5)	ATK (6%)	ATK (6)		1	1
+Bank	6	Strong	Focus	4	0	HP (5%)	HP (194)	CRIDmg (5%)	ATK (6%)			0	0
+Bank	6		Guard	5	0	DEF (8%)						0	1
+Bank	6	Sturdy	Guard	5	6	DEF (22%)	DEF (12)	SPD (12)	CRIRate (3%)			1	2
+Bank	6	Sturdy	Rage	3	0	ATK (4%)	DEF (8)	HP (2%)	CRIRate (3%)			1	1
+Bank	6		Swift	4	0	DEF (15%)		Resistance (4%)	HP (221)	CRIDmg (4%)		0	1
+Bank	6	Quick	Violent	5	6	ATK (22%)	SPD (5)	Accuracy (3%)	HP (7%)			0	0
+Bank	6		Violent	4	6	Accuracy (19%)		Resistance (5%)	HP (85)			0	0
+Bank	6	Quick	Violent	3	6	Accuracy (16%)	SPD (3)	DEF (15)	ATK (3%)	HP (244)		0	1
+Bank	6		Violent	3	6	HP (16%)		CRIDmg (8%)	Accuracy (4%)			0	0
+Bank	6	Tenacious	Despair	5	0	Accuracy (9%)	HP (7%)	SPD (3)	DEF (10)			0	1
+Bank	6		Swift	5	0	ATK (8%)	DEF (6%)	HP (119)	SPD (4)			0	1
+Bank	6		Energy	5	0	ATK (8%)		HP (4%)	DEF (11)			0	1
+Bank	6	Quick	Despair	5	0	HP (8%)	SPD (5)	ATK (15)	CRIDmg (4%)	Resistance (5%)		0	0
+Belladeon	1		Violent	3	6	ATK (37)		SPD (6)	HP (5%)	CRIRate (1%)	ATK (4%)	1	0
+Belladeon	2	Powerful	Focus	5	9	SPD (23)	ATK (5%)	HP (507)	Resistance (6%)	CRIDmg (5%)		0	0
+Belladeon	3		Focus	4	9	DEF (64)		Resistance (4%)	Accuracy (14%)	SPD (2)		0	1
+Belladeon	4		Violent	5	13	HP (40%)		ATK (6%)	SPD (10)	DEF (4%)	CRIDmg (3%)	0	1
+Belladeon	5	Resistant	Violent	6	15	HP (2448)	Resistance (6%)	Accuracy (14%)	SPD (10)	CRIDmg (7%)	ATK (7%)	0	0
+Belladeon	6	Powerful	Violent	4	12	Accuracy (32%)	ATK (5%)	CRIDmg (10%)	HP (3%)	DEF (6%)	CRIRate (3%)	1	1
+Bernard	1		Swift	5	6	ATK (57)		HP (538)	SPD (8)	CRIRate (5%)		1	0
+Bernard	2		Focus	6	12	SPD (31)		HP (13%)	Resistance (8%)	HP (287)	ATK (16)	0	0
+Bernard	3		Swift	6	6	DEF (70)		SPD (14)	DEF (6%)			0	2
+Bernard	4	Quick	Focus	6	9	HP (38%)	SPD (4)	ATK (14%)	Resistance (8%)	HP (349)		0	0
+Bernard	5		Swift	5	6	HP (900)		DEF (18%)	SPD (4)	Accuracy (3%)		0	1
+Bernard	6		Swift	4	6	Accuracy (19%)		HP (6%)	DEF (13%)	CRIDmg (3%)		0	1
+Chloe	1		Swift	4	6	ATK (46)		ATK (15%)	HP (6%)			0	0
+Chloe	2	Intricate	Swift	5	7	SPD (19)	Accuracy (6%)	ATK (24)	HP (7%)			0	0
+Chloe	3	Durable	Swift	4	6	DEF (46)	DEF (4%)	HP (263)	CRIDmg (4%)	HP (11%)		0	2
+Chloe	4		Energy	6	6	HP (29%)		SPD (4)	Accuracy (8%)			0	0
+Chloe	5		Energy	6	6	HP (1080)		SPD (10)	Resistance (8%)			0	0
+Chloe	6		Swift	6	6	HP (29%)		DEF (13%)	Resistance (6%)			0	1
+Copper	1		Vampire	3	1	ATK (7)		CRIDmg (4%)	HP (109)			0	0
+Copper	2	Strong	Guard	6	6	DEF (29%)	HP (307)	ATK (12%)	Accuracy (5%)			0	1
+Copper	3	Intricate	Vampire	5	9	DEF (78)	Accuracy (7%)	CRIRate (8%)	DEF (8%)	CRIDmg (9%)		1	2
+Copper	4		Guard	5	9	DEF (29%)		HP (5%)	SPD (12)	ATK (13%)		0	1
+Copper	5		Vampire	5	6	HP (900)		HP (11%)	CRIRate (7%)			1	0
+Copper	6	Cruel	Guard	5	12	DEF (37%)	CRIDmg (3%)	SPD (13)	ATK (7%)	HP (12%)	Accuracy (3%)	0	1
+Darion	1		Violent	3	6	ATK (37)		HP (13%)	Resistance (4%)	CRIRate (1%)		1	0
+Darion	2		Energy	5	12	SPD (29)		HP (18%)	HP (248)	DEF (12)	ATK (5%)	0	1
+Darion	4	Quick	Violent	3	9	HP (22%)	SPD (3)	CRIDmg (7%)	Resistance (6%)	ATK (6%)		0	0
+Darion	5		Violent	3	6	HP (550)		HP (5%)	SPD (2)	ATK (9)		0	0
+Darion	6	Quick	Violent	5	9	ATK (29%)	SPD (4)	CRIDmg (12%)	DEF (7%)	HP (9%)	HP (193)	0	1
+Konamiya	1		Violent	3	6	ATK (37)		CRIRate (1%)	HP (166)	SPD (2)		1	0
+Konamiya	2	Ferocious	Violent	3	6	DEF (16%)	ATK (5)	CRIDmg (6%)	HP (8%)			0	1
+Konamiya	3		Violent	4	3	DEF (28)		Resistance (3%)	HP (400)			0	1
+Konamiya	4	Sturdy	Violent	3	6	DEF (16%)	DEF (5)	CRIRate (2%)	ATK (7)	CRIDmg (5%)	Resistance (4%)	1	2
+Konamiya	5		Energy	3	6	HP (550)		HP (7%)	CRIDmg (2%)			0	0
+Konamiya	6		Energy	4	6	Resistance (19%)		CRIRate (2%)	DEF (20)			1	1
+Lushen	1		Rage	5	6	ATK (57)		CRIRate (8%)	ATK (11%)			1	0
+Lushen	2		Rage	6	12	ATK (47%)		CRIDmg (14%)	ATK (16)	HP (6%)	SPD (5)	0	0
+Lushen	3		Blade	4	6	DEF (46)		Resistance (5%)	CRIDmg (13%)	CRIRate (3%)	SPD (3)	1	1
+Lushen	4	Quick	Blade	5	6	CRIDmg (28%)	SPD (3)	ATK (12%)	DEF (13)	DEF (9%)		0	2
+Lushen	5		Rage	5	6	HP (900)		ATK (13%)	CRIRate (5%)	CRIDmg (9%)		1	0
+Lushen	6		Rage	3	6	ATK (16%)		Resistance (4%)	ATK (14)	CRIDmg (6%)		0	0
+Orochi	1		Blade	4	6	ATK (46)		HP (10%)	CRIDmg (9%)	HP (62)		0	0
+Orochi	2	Mortal	Blade	4	6	ATK (18%)	CRIRate (2%)	HP (6%)	CRIDmg (5%)			1	0
+Orochi	3		Focus	5	6	DEF (57)		CRIDmg (9%)	CRIRate (8%)	HP (6%)		1	1
+Orochi	4		Focus	6	12	CRIRate (43%)		CRIDmg (10%)	ATK (8%)	SPD (5)	ATK (13)	1	0
+Orochi	5	Sturdy	Blade	4	6	HP (700)	DEF (5)	Accuracy (11%)	Resistance (3%)			0	1
+Orochi	6		Blade	4	6	ATK (18%)		DEF (5%)	CRIRate (11%)			1	1
+Raoq	3		Fatal	3	6	DEF (37)		CRIRate (4%)	CRIDmg (3%)	DEF (6%)	HP (2%)	1	2
+Raoq	4		Fatal	3	6	CRIRate (15%)		ATK (7%)	HP (8%)			1	0
+Raoq	5	Sturdy	Blade	5	6	HP (900)	DEF (10)	CRIDmg (3%)	DEF (15%)	Accuracy (7%)		0	2
+Raoq	6		Fatal	4	6	ATK (18%)		SPD (7)	Resistance (7%)			0	0
+Ritesh	1	Resistant	Violent	5	6	ATK (57)	Resistance (7%)	ATK (9%)	CRIRate (9%)	HP (6%)		1	0
+Ritesh	2	Sturdy	Violent	5	6	HP (22%)	DEF (11)	Resistance (13%)	ATK (8)			0	1
+Ritesh	3	Strong	Energy	5	6	DEF (57)	HP (208)	HP (14%)	CRIDmg (5%)	SPD (8)		0	1
+Ritesh	4		Violent	5	6	HP (22%)		DEF (9%)	CRIDmg (3%)			0	1
+Ritesh	5		Energy	5	6	HP (900)		CRIDmg (9%)	ATK (9%)	DEF (6%)	HP (7%)	0	1
+Ritesh	6		Violent	5	6	HP (22%)		DEF (12%)	Resistance (6%)			0	1
+Shannon	1	Tenancious	Focus	6	6	ATK (70)	HP (8%)	Accuracy (4%)	Resistance (12%)	CRIDmg (8%)		0	0
+Shannon	2	Resistant	Despair	5	9	HP (29%)	Resistance (4%)	HP (118)	ATK (10%)	SPD (4)	ATK (33)	0	0
+Shannon	3		Despair	5	6	DEF (57)		SPD (10)	CRIRate (5%)	DEF (4%)	Accuracy (12%)	1	2
+Shannon	4	Powerful	Despair	5	12	HP (37%)		DEF (4%)	Accuracy (5%)	ATK (10)	ATK (7%)	0	1
+Shannon	5		Focus	5	6	HP (900)		Accuracy (8%)	ATK (26)	DEF (10)		0	1
+Shannon	6	Cruel	Despair	5	9	Accuracy (31%)	CRIDmg (5%)	ATK (8%)	HP (7%)	SPD (11)		0	0
+Sieq	1	Resistant	Fatal	4	6	ATK (46)	Resistance (5%)	SPD (3)	CRIDmg (4%)	HP (442)		0	0
+Sieq	2		Energy	5	3	SPD (11)		Resistance (8%)	CRIDmg (3%)			0	0
+Sieq	3	Quick	Fatal	5	0	DEF (15)	SPD (5)	HP (5%)	CRIDmg (3%)			0	1
+Sieq	4	Quick	Fatal	5	6	CRIDmg (28%)	SPD (4)	CRIRate (8%)	DEF (8%)	DEF (14)		1	2
+Sieq	5		Fatal	5	0	HP (270)		CRIDmg (3%)	SPD (3)			0	0
+Sieq	6		Energy	4	0	DEF (5%)		ATK (3%)	HP (93)	SPD (4)		0	1
+Sigmarus	1		Rage	5	6	ATK (57)		CRIDmg (7%)	ATK (12%)			0	0
+Sigmarus	2	Mortal	Blade	3	6	ATK (16%)	CRIRate (1%)	DEF (16)	ATK (3)	Resistance (4%)		1	1
+Sigmarus	3		Rage	6	6	DEF (70)		CRIRate (10%)	HP (5%)	CRIDmg (12%)	Resistance (4%)	1	1
+Sigmarus	4		Rage	5	6	CRIRate (19%)		SPD (3)	Accuracy (11%)	ATK (12%)		1	0
+Sigmarus	5	Resistant	Blade	5	9	HP (1215)	Resistance (6%)	CRIDmg (13%)	ATK (14%)	SPD (4)		0	0
+Sigmarus	6		Rage	4	6	ATK (18%)		HP (307)	Resistance (4%)			0	0
+Verdehile	1		Blade	4	6	ATK (46)		ATK (3%)	SPD (4)			0	0
+Verdehile	2		Blade	4	6	SPD (13)		HP (4%)	ATK (7)			0	0
+Verdehile	3	Tenacious	Swift	5	6	DEF (57)	HP (4%)	SPD (8)	CRIRate (9%)			1	1
+Verdehile	4		Swift	6	15	CRIRate (58%)		SPD (6)	ATK (32)	ATK (20%)	DEF (7%)	1	1
+Verdehile	5	Ferocious	Swift	5	6	HP (900)	ATK (8)	HP (5%)	CRIDmg (7%)	ATK (7%)	SPD (8)	0	0
+Verdehile	6		Swift	5	6	ATK (22%)		Accuracy (12%)	CRIRate (7%)			1	0
+Veromos	1		Violent	5	7	ATK (64)		CRIRate (13%)	SPD (5)			1	0
+Veromos	2	Cruel	Focus	5	9	SPD (23)	CRIDmg (5%)	HP (193)	Resistance (14%)	CRIRate (3%)		1	0
+Veromos	3		Violent	4	6	DEF (46)		DEF (3%)	CRIRate (7%)	HP (290)		1	2
+Veromos	4		Focus	5	12	HP (29%)		Resistance (8%)	SPD (9)	ATK (9%)	Accuracy (7%)	0	0
+Veromos	5		Violent	6	6	HP (1080)		ATK (10%)	CRIRate (10%)			1	0
+Veromos	6	Strong	Violent	6	15	HP (63%)	HP (268)	Accuracy (11%)	DEF (26)	SPD (11)	CRIRate (6%)	1	1
+Bank	1		Guard	5	0	ATK (15)		CRIDmg (5%)	HP (249)	CRIRate (4%)			
+Bank	3		Guard	6	0	DEF (22)		Accuracy (8%)	DEF (6%)				
+Bank	6	Sturdy	Guard	4	0	HP (5%)	DEF (5)	Resistance (5%)	DEF (4%)				
+Bank	5	Durable	Endure	4	0	HP (160)	DEF (3%)	CRIDmg (2%)	CRIRate (4%)	HP (5%)			
+Bank	6	Cruel	Endure	5	0	HP (8%)	CRIDmg (4%)	Accuracy (6%)	HP (119)				
+Bank	6		Swift	5	0	Accuracy (9%)		CRIRate (5%)	ATK (7%)	ATK (10)			
+Bank	4		Revenge	5	0	CRIDmg (8%)		Accuracy (6%)	CRIRate (5%)				
+Bank	4		Revenge	4	0	DEF (5%)		SPD (3)	CRIRate (2%)				
+Bank	6	Ferocious	Focus	5	0	Accuracy (9%)	ATK (11)	HP (4%)	HP (147)				
+Bank	4		Shield	5	0	HP (8%)		Accuracy (9%)	ATK (9)	Resistance (7%)	CRIDmg (5%)		
+Bank	5	Cruel	Shield	4	0	HP (160)	CRIDmg (5%)	Accuracy (5%)	SPD (4)				
+Bank	3	Resistant	Endure	5	0	DEF (15)	Resistance (5%)	Accuracy (3%)	CRIRate (3%)	SPD (4)	DEF (5%)		

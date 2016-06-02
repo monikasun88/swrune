@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href="SW_recordpage_style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="articles">
+      <form method="GET" action=_output.html>
+        <table align="center">
+           <tr>
+             <th>Class</th>
+             <th>Source</th>
+           </tr>
+          <tr>
+            <td><select name="item_class" id="item_class">
+              <option value=""></option>
+              <option value="monster">Monster</option>
+              <option value="rune">Rune</option>
+              <option value="summon_material">Summon Material</option>
+            </select></td>
+            
+            <td><select name="source_class" id="source_class">
+              <option value=""></option>
+              <option value="scenario">Scenario</option>
+              <option value="dungeon">Dungeon</option>
+              <option value="trial_accession">Trial of Accession</option>
+              <option value="secret_shop">SecretShop</option>
+              <option value="wish">SecretShop</option>
+            </select></td>
+
+            <td><select name="scenario_type" id="scenario">
+              <option value="A1" selected="selected">A1</option>
+              <option value="A2">A2</option>
+            </select></td>
+
+            <td><select name="ground_spray_type" id="id_B">
+              <option value="B1" selected="selected">B1</option>
+              <option value="B2">B2</option>
+            </select></td>
+          </tr>
+        </table>                  
+      </form>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="SW_recordpage_app.js"></script>
+    
+  </body>
+</html>

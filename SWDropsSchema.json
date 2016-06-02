@@ -1,0 +1,91 @@
+{ "type": "object",
+  "properties": {
+    "Rune": {
+      "type": "object",
+      "properties": {
+        "PlayerLevel": { "type":"integer", "minimum":1 },
+        "Class": { "type":"string" },
+        "NameAttribute": { "type":"string", "optional": true },
+        "Slot": { "type":"integer",
+                  "minimum":1, "maximum":6 },
+        "Power": { "type":"integer",
+                   "minimum":1, "maximum":15, "optional": true },
+        "Attributes": {
+          "type":"object",
+          "properties": {
+            "Attack": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}},
+            "HP": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}},
+            "Defense": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}},
+            "Speed": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}},
+            "CRIRate": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}},
+            "CRIDmg": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}},
+            "Resist": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}},
+            "Accuracy": { 
+              "type":"object",
+              "properties": {
+                "Value": { "type":"integer", "minimum":0 },
+                "Percent": { "type":"string", "optional": true }}}}},
+        "Source": {
+          "type":"object",
+          "properties": {
+            "Name": { "type":"string" },
+            "Difficulty": { "type":"integer", "optional": true },
+            "Cost": { "type":"integer", "optional": true },
+            "CostUnit": {"type":"string", "optional": true }}},
+        "Date": {
+          "type":"object",
+          "properties": {
+            "Day": { "type":"integer" },
+            "Month": { "type":"integer" },
+            "Year": { "type":"integer" }}}}},
+        
+    "Monster": {
+      "type": "object",
+      "properties": {
+        "PlayerLevel": { "type":"integer", "minimum":1 },
+        "Class": { "type":"string" },
+        "Element": { "type":"string" },
+        "Awakened": { "type":"integer" },
+        "AwakenedName": { "type":"integer", "optional": true }
+        "Stars": { "type":"integer" }
+        "Source": {
+          "type":"object",
+          "properties": {
+            "Name": { "type":"string" },
+            "Difficulty": { "type":"integer", "optional": true },
+            "Cost": { "type":"integer", "optional": true },
+            "CostUnit": {"type":"string", "optional": true }}},
+        "Date": {
+          "type":"object",
+          "properties": {
+            "Day": { "type":"integer" },
+            "Month": { "type":"integer" },
+            "Year": { "type":"integer" }}}}}}}
